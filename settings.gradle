@@ -1,0 +1,3 @@
+include ':om-recorder'
+include ':app'
+rootProject.name = "EMRAssist2_Android"

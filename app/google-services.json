@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "259241446220",
+    "project_id": "emrassist-f0300",
+    "storage_bucket": "emrassist-f0300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259241446220:android:d3094aa73b3b9e742a9de9",
+        "android_client_info": {
+          "package_name": "com.emrassistnew.audio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259241446220-51mhbc0d6js9ukt5qgicl1vktutvpj8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp6lhkhl1Sil8D9ZsaEDPPgXw2TRVYnJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259241446220-51mhbc0d6js9ukt5qgicl1vktutvpj8b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259241446220-qoamsc0a1vdv3ie7s54kf395340foepg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emrassist",
+                "app_store_id": "1531468107"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/progressbar_background"
+        android:padding="20dp">
+
+        <com.agrawalsuneet.dotsloader.loaders.CircularDotsLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:loader_animDur="130"
+            app:loader_bigCircleRadius="35dp"
+            app:loader_circleRadius="6dp"
+            app:loader_defaultColor="@color/teal_200"
+            app:loader_selectedColor="@color/purple_500" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
